@@ -1,29 +1,29 @@
 # Feedback Analyzer System 📊
 
-[cite_start]A C++ based console application designed to automate the collection and analysis of user feedback ratings to determine performance classifications. [cite: 84, 87, 103]
+A C++ based console application designed to automate the collection and analysis of user feedback ratings to determine performance classifications.
 
 ## 📌 Problem Statement
-[cite_start]Manually analyzing feedback from multiple users in educational or service environments is inefficient. [cite: 107, 108] [cite_start]This system automates the process by collecting ratings, computing an average, and providing a meaningful performance classification. [cite: 109, 110]
+Manually analyzing feedback from multiple users in educational or service environments is inefficient. This system automates the process by collecting ratings, computing an average, and providing a meaningful performance classification.
 
 ## 🚀 Features
-- [cite_start]**Menu-Driven Interface**: Easy navigation to give feedback, view analysis, or exit. [cite: 127]
-- [cite_start]**Automated Analysis**: Calculates total and average ratings instantly. [cite: 115]
-- [cite_start]**Performance Classification**: Categorizes results into Excellent, Good, Average, or Poor. [cite: 104, 116]
-- [cite_start]**Data Storage**: Uses arrays to manage multiple user entries effectively. [cite: 114, 119]
+**Menu-Driven Interface**: Easy navigation to give feedback, view analysis, or exit. [
+**Automated Analysis**: Calculates total and average ratings instantly. 
+**Performance Classification**: Categorizes results into Excellent, Good, Average, or Poor. 
+**Data Storage**: Uses arrays to manage multiple user entries effectively. 
 
 ## 🛠️ Technical Implementation
-- [cite_start]**Language**: C++ [cite: 88, 124]
-- [cite_start]**Arrays**: For storing numerical ratings. [cite: 119]
-- [cite_start]**Loops**: To iterate through data and calculate sums. [cite: 121]
-- [cite_start]**Conditional Logic**: Using `if-else` statements for performance categorization. [cite: 122]
+**Language**: C++
+**Arrays**: For storing numerical ratings. 
+**Loops**: To iterate through data and calculate sums. 
+**Conditional Logic**: Using `if-else` statements for performance categorization. 
 
 ## 📋 Sample Interaction
 1. User enters ratings.
 2. System computes average.
-3. [cite_start]System outputs: `Overall Rating: Excellent`. [cite: 132, 133]
+3. System outputs: `Overall Rating: Excellent`. 
 
 ## 🎓 Academic Credentials
-- [cite_start]**Student**: Azmaan Baig [cite: 90]
-- [cite_start]**Program**: B.Tech CSE (2025-29) [cite: 90]
-- [cite_start]**Roll No**: 150096725172 [cite: 91]
-- [cite_start]**Institution**: ITM Skills University - School of Future Tech [cite: 78, 83]
+**Student**: Azmaan Baig 
+**Program**: B.Tech CSE (2025-29) 
+**Roll No**: 150096725172 
+**Institution**: ITM Skills University - School of Future Tech 
